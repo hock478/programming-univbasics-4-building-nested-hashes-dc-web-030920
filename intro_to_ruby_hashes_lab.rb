@@ -42,7 +42,7 @@ def monopoly_with_third_tier
       
     },
     :names => {
-      :Jefferson => "open",
+      :Jefferson => {},
       :Poppa => "open",
       :HeyBud => "open",
       :NoWay => "open",

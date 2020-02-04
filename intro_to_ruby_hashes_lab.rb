@@ -33,13 +33,17 @@ end
 def monopoly_with_third_tier
   countries_and_capitals_of_the_world = {
   :railroads => {
-    "Canada" => {
-      :capital => "Ottawa",
-      :capital_climate => "Kőppen Dfb"
+    :pieces => 4,
+    :rent_in_dollars =>  50,
+  },
+  :africa => {
+    "Ghana" => {
+      :capital => "Accra",
+      :capital_climate => "Kőppen Aw"
     },
-    "USA" => {
-      :capital => "Washington D.C.",
-      :capital_climate => "Kőppen Cfa"
+    "Nigeria" => {
+      :capital => "Abuja",
+      :capital_climate => "Kőppen Aw"
     }
   }
 }

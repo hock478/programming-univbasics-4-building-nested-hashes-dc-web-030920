@@ -42,7 +42,9 @@ def monopoly_with_third_tier
       
     },
     :names => {
-      :reading_railroads => {},
+      :reading_railroad => {
+        
+      },
       :Poppa => "open",
       :HeyBud => "open",
       :NoWay => "open",

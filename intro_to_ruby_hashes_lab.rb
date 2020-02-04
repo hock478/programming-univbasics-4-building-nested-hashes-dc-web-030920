@@ -3,15 +3,7 @@ def base_hash
   # keyword "return." Nice and neat.
 	countries_and_capitals_of_the_world = {
   :north_america => {
-    
-      Aw"
-    },
-    "Nigeria" => {
-      :capital => "Abuja",
-      :capital_climate => "Kőppen Aw"
     }
-  }
-}
  
 end
 

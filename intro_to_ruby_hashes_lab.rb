@@ -36,6 +36,9 @@ def monopoly_with_third_tier
     :pieces => 4,
     :rent_in_dollars =>  {
       :hi => 4,
+      :hil => 5,
+      :hild => 6,
+      :hilde => 7,
     }
   },
   :africa => {

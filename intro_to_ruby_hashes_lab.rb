@@ -40,7 +40,12 @@ def monopoly_with_third_tier
       :hild => 6,
       :hilde => 7,
     },
-    :names => "Dawit"
+    :names => {
+      :Jefferson => "open",
+      :Poppa => "open",
+      :HeyBud => "open",
+      :NoWay => "open",
+    }
   },
   :africa => {
     "Ghana" => {

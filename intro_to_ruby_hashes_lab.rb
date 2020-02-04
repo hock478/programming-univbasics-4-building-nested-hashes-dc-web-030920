@@ -48,7 +48,9 @@ def monopoly_with_third_tier
       :pennsylvania_railroad => {
         
       },
-      :HeyBud => "open",
+      :b_and_o_railroad => {
+        
+      },
       :NoWay => "open",
     }
   },

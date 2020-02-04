@@ -55,7 +55,7 @@ end
 
 def monopoly_with_fourth_tier
  countries_and_capitals_of_the_world = {
-  :north_america => {
+  :railroads => {
     "Canada" => {
       :capital => "Ottawa",
       :capital_climate => "Kőppen Dfb"

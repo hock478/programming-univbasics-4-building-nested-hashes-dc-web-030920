@@ -15,7 +15,7 @@ def monopoly_with_second_tier
   countries_and_capitals_of_the_world = {
   :railroads => {
     "Canada" => {
-      :capital => "Ottawa",
+      :pieces => "Ottawa",
       :capital_climate => "Kőppen Dfb"
     },
     "USA" => {

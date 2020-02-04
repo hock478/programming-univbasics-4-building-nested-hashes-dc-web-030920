@@ -70,7 +70,7 @@ def monopoly_with_third_tier
  
 end
 
-def monopoly_with_third_tier
+def monopoly_with_fourth_tier
   countries_and_capitals_of_the_world = {
   :railroads => {
     :pieces => 4,

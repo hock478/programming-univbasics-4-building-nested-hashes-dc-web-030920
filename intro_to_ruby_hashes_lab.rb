@@ -39,7 +39,8 @@ def monopoly_with_third_tier
       :hil => 5,
       :hild => 6,
       :hilde => 7,
-    }
+    },
+    :names => "Dawit"
   },
   :africa => {
     "Ghana" => {

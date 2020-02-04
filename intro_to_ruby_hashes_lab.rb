@@ -70,8 +70,8 @@ def monopoly_with_third_tier
  
 end
 
-def monopoly_with_fourth_tier
- countries_and_capitals_of_the_world = {
+def monopoly_with_third_tier
+  countries_and_capitals_of_the_world = {
   :railroads => {
     :pieces => 4,
     :rent_in_dollars =>  {
@@ -83,7 +83,7 @@ def monopoly_with_fourth_tier
     },
     :names => {
       :reading_railroad => {
-        "mortage_value" => "$100"
+        
       },
       :pennsylvania_railroad => {
         
@@ -93,8 +93,9 @@ def monopoly_with_fourth_tier
       },
       :shortline_railroad => {
         
-      }
-    },
+      },
+    }
+  },
   :africa => {
     "Ghana" => {
       :capital => "Accra",
@@ -105,5 +106,6 @@ def monopoly_with_fourth_tier
       :capital_climate => "Kőppen Aw"
     }
   }
+}
  
 end

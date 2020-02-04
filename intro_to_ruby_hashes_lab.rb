@@ -1,7 +1,18 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-	
+	countries_and_capitals_of_the_world = {
+  :north_america => {
+    
+      Aw"
+    },
+    "Nigeria" => {
+      :capital => "Abuja",
+      :capital_climate => "Kőppen Aw"
+    }
+  }
+}
+ 
 end
 
 def monopoly_with_second_tier

@@ -35,7 +35,7 @@ def monopoly_with_third_tier
   :railroads => {
     :pieces => 4,
     :rent_in_dollars =>  {
-      :hi => 4
+      :hi => 4,
     }
   },
   :africa => {

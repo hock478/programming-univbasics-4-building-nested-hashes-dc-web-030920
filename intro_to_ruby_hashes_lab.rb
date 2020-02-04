@@ -34,7 +34,9 @@ def monopoly_with_third_tier
   countries_and_capitals_of_the_world = {
   :railroads => {
     :pieces => 4,
-    :rent_in_dollars =>  50,
+    :rent_in_dollars =>  {
+      :hi => 4
+    }
   },
   :africa => {
     "Ghana" => {
